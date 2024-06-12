@@ -2,7 +2,7 @@
 This is a simple weather application built using React. It allows users to search for the weather of a specific city and displays the current temperature, humidity, visibility, and wind speed.
 
 Deployment Link
-# React Weather Application
+# https://666970bc9b83c60083644852--unrivaled-praline-8e8a86.netlify.app/
 
 How to Run
 1.To run this application locally, follow these steps:
