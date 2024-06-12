@@ -685,5 +685,31 @@ div#txt {
 } 
 
 
+/* App.css */
+
+.toggle-button {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background-color: #ff8a00;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* darkMode.css */
+
+.dark-mode {
+  background-color: #333;
+  color: white;
+}
+
+/* lightMode.css */
+
+
 
  
